@@ -1,0 +1,15 @@
+body{
+    font-style: italic;
+    background-image: linear-gradient(290deg,#d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #7ea8f1, #57b6fc, #00c3ff, #00d6fd, #00e7e5, #00f3b9, #5ffb81);
+     font-size:20px;
+     height: 600px;
+     width: 600px;
+     margin:auto;
+}
+h1{
+    color: white;
+    font-size: bold;
+}
+button{
+    border: 2px solid red;
+}
